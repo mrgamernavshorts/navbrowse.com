@@ -38,11 +38,11 @@
     margin: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
     background-color: greenyellow;
     border-color: greenyellow;
-    border-radius: 50px;
+    border-radius: 5px;
     font-family: Fredoka,Arial;
     font-weight: bolder;
     font-size: x-large;
